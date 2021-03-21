@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98917024509",
+    "firebase_url": "https://health-made-simple-7fb1e.firebaseio.com",
+    "project_id": "health-made-simple-7fb1e",
+    "storage_bucket": "health-made-simple-7fb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98917024509:android:4238a31b17c788cbb0b494",
+        "android_client_info": {
+          "package_name": "com.arunprashanna.health_made_simple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98917024509-1k5632qgtmk6n4307jvb0bv1bs5ljmqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4MvwTDgsp7wgEEUG6SjPfM_ZPb-lhfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98917024509-1k5632qgtmk6n4307jvb0bv1bs5ljmqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
